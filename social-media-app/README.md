@@ -1,5 +1,5 @@
 # Tasveerey 
-Website: https://tasveerey.herokuapp.com
+View it here: https://tasveerey.herokuapp.com
 
 **Website where people can post pictures with captions.**
 

@@ -7,10 +7,10 @@ This portal is built by our team during Webathon in General Championship 2022, I
 
 ### Team
 
+- Sathvik Chilaka
 - Sai Krishna Jupally 
 - Shrirang Deshmukh
 - Yogesh Kumar Kansal
-- Sathvik Chilaka
 
 ### Tech Stack Used
 
